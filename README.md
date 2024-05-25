@@ -7,7 +7,7 @@ Business and Data Analyst
 I've been coding for the past 3 years. I am passionate about healthcare and business.
 
 * 🌍  I'm based in Dallas
-* ✉️  You can contact me at [Shraddha.Kurra@utdallas.edu](mailto:Shraddha.Kurra@utdallas.edu)
+* ✉️  You can contact me at [Shraddhakurra@gmail.com](mailto:Shraddhakurra@gmail.com)
 * 🧠  I'm learning TensorFlow
 * 🤝  I'm open to collaborating on Machine Learning and Data Analytics
 
